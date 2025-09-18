@@ -1,0 +1,7 @@
+{
+  "name": "Forager",
+  "creator": "IdoDrugsSoDidMyInternet",
+  "description": "Experimental Foraging QOL (trust)",
+  "version": "1.0.0",
+  "entry": "index.js"
+}
